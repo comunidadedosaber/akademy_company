@@ -1,1 +1,1 @@
-Tryton ERP module that extend the default party modu
+Tryton ERP module that extend the default party module
